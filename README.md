@@ -1,0 +1,3 @@
+# SpringMVC
+第一个测试用例
+IDEA与git配合使用，方便分享项目至GitHub以及从GitHub拉项目到IDEA
